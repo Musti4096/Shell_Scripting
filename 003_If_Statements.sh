@@ -29,3 +29,14 @@ then
 else
     echo "wrong"
 fi
+
+#/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+
+word=abc
+
+if [ $word == "abcccc" ]
+then   
+    echo "matched"
+else
+    echo "not matched"
+fi
