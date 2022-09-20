@@ -1,2 +1,2 @@
 # Shell_Scripting
-Rose94t çalışıyor
+Rose94t çalışıyor !!!!!
